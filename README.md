@@ -77,3 +77,6 @@ matplotlib, seaborn
 
 Power BI
 
+<img width="893" height="492" alt="mental disorder dashboard" src="https://github.com/user-attachments/assets/45fc2d3e-efbd-4980-9164-e98fe0a1a14e" />
+
+
